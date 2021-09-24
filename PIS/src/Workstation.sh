@@ -22,6 +22,9 @@
       apt install sqlmap -y; apt install dirb -y; apt install netcat -y;
       apt install crunch -y; apt install whois -y; apt install nikto -y;
       apt install dnsenum -y; apt install iptables -y; apt install whois -y;
+      curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
+      chmod 755 msfinstall && \
+      ./msfinstall
     #;
 
     #Media tools
