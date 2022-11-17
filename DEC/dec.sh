@@ -4,7 +4,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: DEC - Development environment creator.                   ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                 ##
 ## VERSION: 0.01                                                      ##
 ## CREATION DATE: 04/01/2020                                          ##
 ##                                                                    ##
